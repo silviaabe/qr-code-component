@@ -5,7 +5,7 @@ Este é o repositório de um desafio de componente QR Code, do [Frontend Mentor]
 <br>
 
 <p align="center">
-  <img alt="QR Code" src="https://github.com/user-attachments/assets/017e7553-de8c-472a-96bf-be93b5d5599e" width="200">
+  <img alt="QR Code" src="https://github.com/user-attachments/assets/0b2296ec-3d17-4364-b25f-56198812dcdb" width="200">
 </p>
 
 ## Tecnologias
